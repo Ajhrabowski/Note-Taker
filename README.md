@@ -1,4 +1,4 @@
-# Note-Taker
+# Tomador-De-Notas
 
 ## Badges
 
@@ -19,7 +19,9 @@ Read more about MIT here:
 
 ## Description
 
-This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file..
+This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to modify starter code to create a Note Taker application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file..
+
+![Alt text](<Assets/Note Taker Screenshot.png>)
 
 ## Installation
 

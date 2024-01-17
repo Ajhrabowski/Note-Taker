@@ -10,7 +10,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Questions?](#questions)
+- [Contact Info](#contact-info)
 
 ## License
 
